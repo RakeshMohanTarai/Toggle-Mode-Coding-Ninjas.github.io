@@ -74,4 +74,22 @@ toggleButton.addEventListener('click', function() {
 //     }
 // });
 
+// JQUERY:-
+$(document).ready(function() {
+//     // Check the initial theme preference
+//     if (localStorage.getItem('theme') === 'dark') {
+//       $('#theme-switcher').prop('checked', true);
+//       $('body').removeClass('light-mode').addClass('dark-mode');
+//     }
 
+//     // Toggle the theme when the switch is clicked
+//     $('#theme-switcher').on('change', function() {
+//       if ($(this).is(':checked')) {
+//         $('body').removeClass('light-mode').addClass('dark-mode');
+//         localStorage.setItem('theme', 'dark');
+//       } else {
+//         $('body').removeClass('dark-mode').addClass('light-mode');
+//         localStorage.setItem('theme', 'light');
+//       }
+//     });
+//   });
