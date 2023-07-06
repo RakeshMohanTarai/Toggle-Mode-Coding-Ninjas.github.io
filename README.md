@@ -1,2 +1,2 @@
-# Toggle-Mode-Coding-Ninjas.github.io
+# Toggle Mode Coding Ninjas
  
